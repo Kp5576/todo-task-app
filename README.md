@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+<h2> its a Todo Task App assinment submited by Kuldeep</h2>
+
+<h4>For run Projet</h4>
+<p>required php version 8</p>
+<p>Goto Trimnal and crete commmand <b>composer update</b><br>
+and configure env file and create a database in phpmyadmin name <b>todo</b>
+and second command is <b>php artisan migrate</b><br>
+after u can resister and see project</p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
